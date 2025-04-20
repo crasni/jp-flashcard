@@ -1,3 +1,6 @@
+from utils import calculate_percentage
+
+
 class Card:
     def __init__(self, _japanese, _reading, _meaning):
         self.japanese = _japanese
@@ -6,6 +9,9 @@ class Card:
         self.asked = 0
         self.correct_count = 0
         self.incorrect_count = 0
+
+    def get_japanese_only(self):
+        return self.japanese
 
     def get_japanese(self):
         return f"{self.japanese}({self.reading})"
@@ -24,7 +30,7 @@ class Card:
     def get_stats(self):
         if self.asked == 0:
             return "N/A"
-        return f"{self.correct_count}/{self.asked} {round(self.correct_count/self.asked, 4) * 100}%"
+        return f"{self.correct_count}/{self.asked} {calculate_percentage(self.correct_count, self.asked)}%"
 
     def to_dict(self):
         result = dict()
