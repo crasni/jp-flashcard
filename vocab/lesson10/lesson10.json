@@ -1,0 +1,382 @@
+[
+  {
+    "japanese": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "飛，飛行"
+  },
+  {
+    "japanese": "掛けます",
+    "reading": "かけます",
+    "meaning": "戴上，掛上"
+  },
+  {
+    "japanese": "いただきます",
+    "reading": "いただきます",
+    "meaning": "開動，那我就不客氣了（用於吃喝之前）"
+  },
+  {
+    "japanese": "ご馳走さまでした",
+    "reading": "ごちそうさまでした",
+    "meaning": "謝謝款待（用於吃喝之後）"
+  },
+  {
+    "japanese": "走ります",
+    "reading": "はしります",
+    "meaning": "跑"
+  },
+  {
+    "japanese": "雨",
+    "reading": "あめ",
+    "meaning": "雨，雨天"
+  },
+  {
+    "japanese": "降ります",
+    "reading": "ふります",
+    "meaning": "下（雨、學等）"
+  },
+  {
+    "japanese": "話します",
+    "reading": "はなします",
+    "meaning": "說，談"
+  },
+  {
+    "japanese": "踊ります",
+    "reading": "おどります",
+    "meaning": "跳舞"
+  },
+  {
+    "japanese": "グループ",
+    "reading": "グループ",
+    "meaning": "群組，團體"
+  },
+  {
+    "japanese": "言う",
+    "reading": "いう",
+    "meaning": "說，講"
+  },
+  {
+    "japanese": "引きます",
+    "reading": "ひきます",
+    "meaning": "患（感冒）"
+  },
+  {
+    "japanese": "死にます",
+    "reading": "しにます",
+    "meaning": "死"
+  },
+  {
+    "japanese": "乗ります",
+    "reading": "のります",
+    "meaning": "搭乘，坐"
+  },
+  {
+    "japanese": "開けます",
+    "reading": "あけます",
+    "meaning": "開，打開"
+  },
+  {
+    "japanese": "始めます",
+    "reading": "はじめます",
+    "meaning": "開始"
+  },
+  {
+    "japanese": "忘れます",
+    "reading": "わすれます",
+    "meaning": "忘記，忘掉"
+  },
+  {
+    "japanese": "掃除します",
+    "reading": "そうじします",
+    "meaning": "打掃"
+  },
+  {
+    "japanese": "選択します",
+    "reading": "せんたくします",
+    "meaning": "洗衣服"
+  },
+  {
+    "japanese": "練習します",
+    "reading": "れんしゅうします",
+    "meaning": "練習"
+  },
+  {
+    "japanese": "結婚します",
+    "reading": "けっこんします",
+    "meaning": "結婚"
+  },
+  {
+    "japanese": "待ちます",
+    "reading": "まちます",
+    "meaning": "等，等待"
+  },
+  {
+    "japanese": "急ぎます",
+    "reading": "いそぎます",
+    "meaning": "急，趕快"
+  },
+  {
+    "japanese": "呼ぶ",
+    "reading": "呼ぶ",
+    "meaning": "叫，呼喊；稱爲，叫做"
+  },
+  {
+    "japanese": "教える",
+    "reading": "教える",
+    "meaning": "教，教導"
+  },
+  {
+    "japanese": "知る",
+    "reading": "しる",
+    "meaning": "認識；知道"
+  },
+  {
+    "japanese": "大学院",
+    "reading": "だいがくいん",
+    "meaning": "研究所（碩博）"
+  },
+  {
+    "japanese": "経済",
+    "reading": "けいざい",
+    "meaning": "經濟"
+  },
+  {
+    "japanese": "研究",
+    "reading": "けんきゅう",
+    "meaning": "演劇"
+  },
+  {
+    "japanese": "コック",
+    "reading": "コック",
+    "meaning": "（西餐）廚師"
+  },
+  {
+    "japanese": "居酒屋",
+    "reading": "いざかや",
+    "meaning": "居酒屋"
+  },
+  {
+    "japanese": "飼う",
+    "reading": "かう",
+    "meaning": "飼養"
+  },
+  {
+    "japanese": "出版社",
+    "reading": "しゅっぱんしゃ",
+    "meaning": "出版社"
+  },
+  {
+    "japanese": "新聞社",
+    "reading": "しんぶんしゃ",
+    "meaning": "報社"
+  },
+  {
+    "japanese": "研究所",
+    "reading": "かんきゅうじょ",
+    "meaning": "研究所"
+  },
+  {
+    "japanese": "近く",
+    "reading": "近く",
+    "meaning": "附近"
+  },
+  {
+    "japanese": "ファマリーレストラン",
+    "reading": "ファマリーレストラン",
+    "meaning": "餐廳"
+  },
+  {
+    "japanese": "ハンバーグ",
+    "reading": "ハンバーグ",
+    "meaning": "漢堡（肉餅）"
+  },
+  {
+    "japanese": "定食",
+    "reading": "ていしょく",
+    "meaning": "客飯，套餐"
+  },
+  {
+    "japanese": "デザート",
+    "reading": "デザート",
+    "meaning": "甜點"
+  },
+  {
+    "japanese": "ヨーグルト",
+    "reading": "ヨーグルト",
+    "meaning": "優格"
+  },
+  {
+    "japanese": "みんな",
+    "reading": "みんな",
+    "meaning": "全部；大家"
+  },
+  {
+    "japanese": "晴れる",
+    "reading": "はれる",
+    "meaning": "晴，放晴"
+  },
+  {
+    "japanese": "バイト",
+    "reading": "バイト",
+    "meaning": "打工"
+  },
+  {
+    "japanese": "～先",
+    "reading": "～さき",
+    "meaning": "~地，~地點"
+  },
+  {
+    "japanese": "寂しい",
+    "reading": "寂しい",
+    "meaning": "寂寞的"
+  },
+  {
+    "japanese": "メニュー",
+    "reading": "メニュー",
+    "meaning": "菜單"
+  },
+  {
+    "japanese": "かぶる",
+    "reading": "かぶる",
+    "meaning": "戴（帽子）；蒙著（棉被）"
+  },
+  {
+    "japanese": "着ます",
+    "reading": "きます",
+    "meaning": "穿（衣服）"
+  },
+  {
+    "japanese": "シャツ",
+    "reading": "シャツ",
+    "meaning": "襯衫，内衣，汗衫"
+  },
+  {
+    "japanese": "ブーツ",
+    "reading": "ブーツ",
+    "meaning": "靴子，長筒靴"
+  },
+  {
+    "japanese": "スーツ",
+    "reading": "スーツ",
+    "meaning": "西裝，套裝"
+  },
+  {
+    "japanese": "ラジカセ",
+    "reading": "ラジカセ",
+    "meaning": "卡式收錄音機"
+  },
+  {
+    "japanese": "どの",
+    "reading": "どの",
+    "meaning": "哪~，哪個~"
+  },
+  {
+    "japanese": "白い",
+    "reading": "しろい",
+    "meaning": "白色的"
+  },
+  {
+    "japanese": "セーター",
+    "reading": "セーター",
+    "meaning": "毛衣"
+  },
+  {
+    "japanese": "警察官",
+    "reading": "けいさつかん",
+    "meaning": "警官"
+  },
+  {
+    "japanese": "看護師",
+    "reading": "かんごし",
+    "meaning": "護士，護理人員"
+  },
+  {
+    "japanese": "年上",
+    "reading": "としうえ",
+    "meaning": "年長"
+  },
+  {
+    "japanese": "大学生",
+    "reading": "だいがくせい",
+    "meaning": "大學生"
+  },
+  {
+    "japanese": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "meaning": "拼命努力的"
+  },
+  {
+    "japanese": "紹介します",
+    "reading": "しょうかいします",
+    "meaning": "介紹"
+  },
+  {
+    "japanese": "もしもし",
+    "reading": "もしもし",
+    "meaning": "喂"
+  },
+  {
+    "japanese": "出かける",
+    "reading": "でかける",
+    "meaning": "出門"
+  },
+  {
+    "japanese": "ああ",
+    "reading": "ああ",
+    "meaning": "（感嘆）啊，這樣啊"
+  },
+  {
+    "japanese": "あとで",
+    "reading": "あとで",
+    "meaning": "之後，稍後"
+  },
+  {
+    "japanese": "電話します",
+    "reading": "でんわします",
+    "meaning": "打電話"
+  },
+  {
+    "japanese": "不動産",
+    "reading": "ふどうさん",
+    "meaning": "不動產"
+  },
+  {
+    "japanese": "探します",
+    "reading": "さがします",
+    "meaning": "找，尋找"
+  },
+  {
+    "japanese": "遅く",
+    "reading": "遅く",
+    "meaning": "晚"
+  },
+  {
+    "japanese": "うるさい",
+    "reading": "うるさい",
+    "meaning": "嘈雜的；囉嗦的，麻煩的"
+  },
+  {
+    "japanese": "早く",
+    "reading": "はやく",
+    "meaning": "趕快，及早"
+  },
+  {
+    "japanese": "引っ越します",
+    "reading": "ひっこします",
+    "meaning": "搬家，遷居"
+  },
+  {
+    "japanese": "あれ",
+    "reading": "あれ",
+    "meaning": "咦？"
+  },
+  {
+    "japanese": "面接",
+    "reading": "面接",
+    "meaning": "面試；會面"
+  },
+  {
+    "japanese": "頑張ってください",
+    "reading": "がんばってください",
+    "meaning": "請加油！"
+  }
+]
