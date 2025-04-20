@@ -1,8 +1,8 @@
 from load_vocab import load_cards
+from flashcard_engine import FlashcardEngine
 
 cards = load_cards("vocab/lesson10/lesson10.json")
+instance = FlashcardEngine(cards)
 
-for card in cards:
-    card.show_japanese()
-    card.show_meaning()
+instance.start_quiz(5, True)
 

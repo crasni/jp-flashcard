@@ -7,11 +7,11 @@ class Card:
         self.correct_count = 0
         self.incorrect_count = 0
 
-    def show_japanese(self):
-        print(f"{self.japanese}({self.reading})")
+    def get_japanese(self):
+        return f"{self.japanese}({self.reading})"
 
-    def show_meaning(self):
-        print(f"{self.meaning}")
+    def get_meaning(self):
+        return f"{self.meaning}"
 
     def mark_correct(self):
         self.asked += 1
@@ -20,6 +20,11 @@ class Card:
     def mark_incorrect(self):
         self.asked += 1
         self.incorrect_count += 1
+
+    def get_stats(self):
+        if self.asked == 0:
+            return "N/A"
+        return f"{self.correct_count}/{self.asked} {round(self.correct_count/self.asked, 4) * 100}%"
 
     def to_dict(self):
         result = dict()
