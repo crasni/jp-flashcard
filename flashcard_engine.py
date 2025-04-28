@@ -23,6 +23,10 @@ class FlashcardEngine:
 
         return response == "y"
 
+    def reset_question_pool(self):
+        for c in self.question_pool:
+            c.reset_stats()
+
     def start_quiz(self, amount=10, shuffle: bool = True, jp_only: bool = False):
         tmp = self.question_pool.copy()
         if shuffle:

@@ -2,381 +2,609 @@
   {
     "japanese": "飛ぶ",
     "reading": "とぶ",
-    "meaning": "飛，飛行"
+    "meaning": "飛，飛行",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "掛けます",
     "reading": "かけます",
-    "meaning": "戴上，掛上"
+    "meaning": "戴上，掛上",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "いただきます",
     "reading": "いただきます",
-    "meaning": "開動，那我就不客氣了（用於吃喝之前）"
+    "meaning": "開動，那我就不客氣了（用於吃喝之前）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "ご馳走さまでした",
     "reading": "ごちそうさまでした",
-    "meaning": "謝謝款待（用於吃喝之後）"
+    "meaning": "謝謝款待（用於吃喝之後）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "走ります",
     "reading": "はしります",
-    "meaning": "跑"
+    "meaning": "跑",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "雨",
     "reading": "あめ",
-    "meaning": "雨，雨天"
+    "meaning": "雨，雨天",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "降ります",
     "reading": "ふります",
-    "meaning": "下（雨、學等）"
+    "meaning": "下（雨、雪等）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "話します",
     "reading": "はなします",
-    "meaning": "說，談"
+    "meaning": "說，談",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "踊ります",
     "reading": "おどります",
-    "meaning": "跳舞"
+    "meaning": "跳舞",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "グループ",
     "reading": "グループ",
-    "meaning": "群組，團體"
+    "meaning": "群組，團體",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "言う",
     "reading": "いう",
-    "meaning": "說，講"
+    "meaning": "說，講",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "引きます",
     "reading": "ひきます",
-    "meaning": "患（感冒）"
+    "meaning": "患（感冒）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "死にます",
     "reading": "しにます",
-    "meaning": "死"
+    "meaning": "死",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "乗ります",
     "reading": "のります",
-    "meaning": "搭乘，坐"
+    "meaning": "搭乘，坐",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "開けます",
     "reading": "あけます",
-    "meaning": "開，打開"
+    "meaning": "開，打開",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "始めます",
     "reading": "はじめます",
-    "meaning": "開始"
+    "meaning": "開始",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "忘れます",
     "reading": "わすれます",
-    "meaning": "忘記，忘掉"
+    "meaning": "忘記，忘掉",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "掃除します",
     "reading": "そうじします",
-    "meaning": "打掃"
+    "meaning": "打掃",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "選択します",
     "reading": "せんたくします",
-    "meaning": "洗衣服"
+    "meaning": "洗衣服",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "練習します",
     "reading": "れんしゅうします",
-    "meaning": "練習"
+    "meaning": "練習",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "結婚します",
     "reading": "けっこんします",
-    "meaning": "結婚"
+    "meaning": "結婚",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "待ちます",
     "reading": "まちます",
-    "meaning": "等，等待"
+    "meaning": "等，等待",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "急ぎます",
     "reading": "いそぎます",
-    "meaning": "急，趕快"
+    "meaning": "急，趕快",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "呼ぶ",
-    "reading": "呼ぶ",
-    "meaning": "叫，呼喊；稱爲，叫做"
+    "reading": "よぶ",
+    "meaning": "叫，呼喊；稱為，叫做",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "教える",
-    "reading": "教える",
-    "meaning": "教，教導"
+    "reading": "おしえる",
+    "meaning": "教，教導",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "知る",
     "reading": "しる",
-    "meaning": "認識；知道"
+    "meaning": "認識；知道",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "大学院",
     "reading": "だいがくいん",
-    "meaning": "研究所（碩博）"
+    "meaning": "研究所（碩博）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "経済",
     "reading": "けいざい",
-    "meaning": "經濟"
+    "meaning": "經濟",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "研究",
     "reading": "けんきゅう",
-    "meaning": "演劇"
+    "meaning": "演劇",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "コック",
     "reading": "コック",
-    "meaning": "（西餐）廚師"
+    "meaning": "（西餐）廚師",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "居酒屋",
     "reading": "いざかや",
-    "meaning": "居酒屋"
+    "meaning": "居酒屋",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "飼う",
     "reading": "かう",
-    "meaning": "飼養"
+    "meaning": "飼養",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "出版社",
     "reading": "しゅっぱんしゃ",
-    "meaning": "出版社"
+    "meaning": "出版社",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "新聞社",
     "reading": "しんぶんしゃ",
-    "meaning": "報社"
+    "meaning": "報社",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "研究所",
     "reading": "かんきゅうじょ",
-    "meaning": "研究所"
+    "meaning": "研究所",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "近く",
-    "reading": "近く",
-    "meaning": "附近"
+    "reading": "ちかく",
+    "meaning": "附近",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "ファマリーレストラン",
     "reading": "ファマリーレストラン",
-    "meaning": "餐廳"
+    "meaning": "餐廳",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "ハンバーグ",
     "reading": "ハンバーグ",
-    "meaning": "漢堡（肉餅）"
+    "meaning": "漢堡（肉餅）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "定食",
     "reading": "ていしょく",
-    "meaning": "客飯，套餐"
+    "meaning": "客飯，套餐",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "デザート",
     "reading": "デザート",
-    "meaning": "甜點"
+    "meaning": "甜點",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "ヨーグルト",
     "reading": "ヨーグルト",
-    "meaning": "優格"
+    "meaning": "優格",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "みんな",
     "reading": "みんな",
-    "meaning": "全部；大家"
+    "meaning": "全部；大家",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "晴れる",
     "reading": "はれる",
-    "meaning": "晴，放晴"
+    "meaning": "晴，放晴",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "バイト",
     "reading": "バイト",
-    "meaning": "打工"
+    "meaning": "打工",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "～先",
     "reading": "～さき",
-    "meaning": "~地，~地點"
+    "meaning": "~地，~地點",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "寂しい",
-    "reading": "寂しい",
-    "meaning": "寂寞的"
+    "reading": "さびしい",
+    "meaning": "寂寞的",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "メニュー",
     "reading": "メニュー",
-    "meaning": "菜單"
+    "meaning": "菜單",
+    "asked": 1,
+    "correct_count": 1,
+    "incorrect_count": 0
   },
   {
     "japanese": "かぶる",
     "reading": "かぶる",
-    "meaning": "戴（帽子）；蒙著（棉被）"
+    "meaning": "戴（帽子）；蒙著（棉被）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "着ます",
     "reading": "きます",
-    "meaning": "穿（衣服）"
+    "meaning": "穿（衣服）",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "シャツ",
     "reading": "シャツ",
-    "meaning": "襯衫，内衣，汗衫"
+    "meaning": "襯衫，內衣，汗衫",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "ブーツ",
     "reading": "ブーツ",
-    "meaning": "靴子，長筒靴"
+    "meaning": "靴子，長筒靴",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "スーツ",
     "reading": "スーツ",
-    "meaning": "西裝，套裝"
+    "meaning": "西裝，套裝",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "ラジカセ",
     "reading": "ラジカセ",
-    "meaning": "卡式收錄音機"
+    "meaning": "卡式收錄音機",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "どの",
     "reading": "どの",
-    "meaning": "哪~，哪個~"
+    "meaning": "哪~，哪個~",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "白い",
     "reading": "しろい",
-    "meaning": "白色的"
+    "meaning": "白色的",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "セーター",
     "reading": "セーター",
-    "meaning": "毛衣"
+    "meaning": "毛衣",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "警察官",
     "reading": "けいさつかん",
-    "meaning": "警官"
+    "meaning": "警官",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "看護師",
     "reading": "かんごし",
-    "meaning": "護士，護理人員"
+    "meaning": "護士，護理人員",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "年上",
     "reading": "としうえ",
-    "meaning": "年長"
+    "meaning": "年長",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "大学生",
     "reading": "だいがくせい",
-    "meaning": "大學生"
+    "meaning": "大學生",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "一生懸命",
     "reading": "いっしょうけんめい",
-    "meaning": "拼命努力的"
+    "meaning": "拼命努力的",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "紹介します",
     "reading": "しょうかいします",
-    "meaning": "介紹"
+    "meaning": "介紹",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "もしもし",
     "reading": "もしもし",
-    "meaning": "喂"
+    "meaning": "喂",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "出かける",
     "reading": "でかける",
-    "meaning": "出門"
+    "meaning": "出門",
+    "asked": 1,
+    "correct_count": 0,
+    "incorrect_count": 1
   },
   {
     "japanese": "ああ",
     "reading": "ああ",
-    "meaning": "（感嘆）啊，這樣啊"
+    "meaning": "（感嘆）啊，這樣啊",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "あとで",
     "reading": "あとで",
-    "meaning": "之後，稍後"
+    "meaning": "之後，稍後",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "電話します",
     "reading": "でんわします",
-    "meaning": "打電話"
+    "meaning": "打電話",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "不動産",
     "reading": "ふどうさん",
-    "meaning": "不動產"
+    "meaning": "不動產",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "探します",
     "reading": "さがします",
-    "meaning": "找，尋找"
+    "meaning": "找，尋找",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "遅く",
-    "reading": "遅く",
-    "meaning": "晚"
+    "reading": "おそく",
+    "meaning": "晚",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "うるさい",
     "reading": "うるさい",
-    "meaning": "嘈雜的；囉嗦的，麻煩的"
+    "meaning": "嘈雜的；囉嗦的，麻煩的",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "早く",
     "reading": "はやく",
-    "meaning": "趕快，及早"
+    "meaning": "趕快，及早",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "引っ越します",
     "reading": "ひっこします",
-    "meaning": "搬家，遷居"
+    "meaning": "搬家，遷居",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "あれ",
     "reading": "あれ",
-    "meaning": "咦？"
+    "meaning": "咦？",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "面接",
-    "reading": "面接",
-    "meaning": "面試；會面"
+    "reading": "めんせつ",
+    "meaning": "面試；會面",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   },
   {
     "japanese": "頑張ってください",
     "reading": "がんばってください",
-    "meaning": "請加油！"
+    "meaning": "請加油！",
+    "asked": 0,
+    "correct_count": 0,
+    "incorrect_count": 0
   }
 ]
